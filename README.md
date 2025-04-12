@@ -1,5 +1,6 @@
 
 <b>FoodBridge: Community-Based Food Donation Platform</b>
+~made using HTML,CSS,JS,PHP
 <hr>
 <p>FoodBridge is a web-based platform designed to reduce food waste and enhance food security by connecting donors with people in need. Through this platform, residents can easily donate surplus food within their community, while recipients can securely claim food items with verified identities. FoodBridge integrates Aadhaar-based verification to ensure fair distribution and offers a reward system to incentivize active donor participation.</p>
 <b>Features</b>
